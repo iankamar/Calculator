@@ -18,7 +18,8 @@ Check out the live demo [here](https://your-live-demo-link.com).
 
 ## Screenshots
 <img width="751" alt="Light Calculator" src="https://github.com/iankamar/Calculator/assets/95672055/9c1dfc4e-d66e-4dff-9458-db30addb028c">
-<img width="766" alt="Dark Calculator" src="https://github.com/iankamar/Calculator/assets/95672055/06a20861-2e06-4ebb-82b5-c0eead215c65">
+<img width="731" alt="Dark Calculator" src="https://github.com/iankamar/Calculator/assets/95672055/1e62ea0c-aa81-4695-aaa5-71d63c3e03a5">
+
 
 ## Getting Started
 
