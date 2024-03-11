@@ -17,7 +17,8 @@ Check out the live demo [here](https://your-live-demo-link.com).
 - Responsive design for various screen sizes
 
 ## Screenshots
-<img width="751" alt="Light Calculator" src="https://github.com/iankamar/Calculator/assets/95672055/9c1dfc4e-d66e-4dff-9458-db30addb028c">
+
+<img width="727" alt="Light Calculator" src="https://github.com/iankamar/Calculator/assets/95672055/e1ebad04-44d2-46cb-8ca1-64ac132f7d83">
 <img width="731" alt="Dark Calculator" src="https://github.com/iankamar/Calculator/assets/95672055/1e62ea0c-aa81-4695-aaa5-71d63c3e03a5">
 
 
