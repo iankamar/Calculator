@@ -28,13 +28,6 @@ Check out the live demo [Calculator](https://iankamar.github.io/Calculator/)
 
 Make sure you have a modern web browser and TypeScript installed.
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/iankamar/Calculator.git
-
 ### Usage
 
 1. Enter numbers using the numeric keypad.
