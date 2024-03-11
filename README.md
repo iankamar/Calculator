@@ -61,3 +61,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Thanks to [any resources or tools you used or followed].
 
 Feel free to customize or expand these sections based on your project's specific details and needs.
+
+
+## Acknowledgments
+
+Thanks to the following resources and tools that contributed to the development of this project:
+
+- [TypeScript](https://www.typescriptlang.org/): A superset of JavaScript that adds static typing.
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML): The standard markup language for creating web pages.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): The style sheet language used for describing the look and formatting of a document written in HTML.
+- [Visual Studio Code](https://code.visualstudio.com/): An excellent source code editor that provides support for TypeScript and a variety of extensions.
+
