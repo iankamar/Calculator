@@ -59,14 +59,8 @@ As the sole contributor to this project, contributions are currently not open. I
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
 ### Acknowledgments
-
-Thanks to [any resources or tools you used or followed].
-
-Feel free to customize or expand these sections based on your project's specific details and needs.
-
-
-## Acknowledgments
 
 Thanks to the following resources and tools that contributed to the development of this project:
 
