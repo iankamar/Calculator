@@ -54,7 +54,7 @@ As the sole contributor to this project, contributions are currently not open. I
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [License](LICENSE) file for details.
 
 
 ### Acknowledgments
