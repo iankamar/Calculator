@@ -8,7 +8,7 @@ This calculator project provides basic arithmetic functionality, allowing users 
 
 ## Live Demo
 
-Check out the live demo [here](https://your-live-demo-link.com).
+Check out the live demo [Calculator](https://iankamar.github.io/Calculator/)
 
 ## Features
 
@@ -51,9 +51,6 @@ As the sole contributor to this project, contributions are currently not open. I
 - HTML
 - CSS
 - TypeScript
-
-## GitHub
-[Calculator](https://iankamar.github.io/Calculator/)
 
 ### License
 
