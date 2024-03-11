@@ -5,7 +5,7 @@ const LightTheme = {
 		color: '#000',
 		prevColor: '#2dc4b6',
 	},
-	bgOperator: '#c1eeea',
+	bgOperator: '#4C8BF5',
 	bgNumber: '#fdfdfd',
 	bgOtherButtons: '#fdfdfd',
 	fontColor: '#000',
@@ -17,29 +17,29 @@ const LightTheme = {
 		}	
 	},
 	equalsButton: {
-		fontColor: '#fff',
-		bg: '#27a89c'
+		fontColor: '#000',
+		bg: '#4C8BF5'
 	},
 	history: {
 		bg: '#f5f5f5',
 		fontColor: '#000',
-		clearBtn: '#3A98B9',
+		clearBtn: '#4C8BF5',
 		hover: {
 			item: '#dbdbdb',
 			clear: '#3488a6'
 		}
 	}
-}
+};
 
 
 const DarkTheme = {
 	bgContainer: '#2d2d2d',
 	display: {
-		bg: '#010808',
+		bg: '#071415',
 		color: '#fff',
 		prevColor: '#2dc4b6',
 	},
-	bgOperator: '#0e4b4f',
+	bgOperator: '#4C8BF5',
 	bgNumber: '#08151a',
 	bgOtherButtons: '#071415',
 	fontColor: '#FFF',
@@ -52,23 +52,22 @@ const DarkTheme = {
 	},
 	equalsButton: {
 		fontColor: '#fff',
-		bg: '#27a89c'
+		bg: '#4C8BF5'
 	},	
 	history: {
-		bg: '#04293a',
+		bg: '#071415',
 		fontColor: '#FFF',
-		clearBtn: '#50577A',
+		clearBtn: '#4C8BF5',
 		hover: {
 			item: '#063a52',
 			clear: '#646d99'
 		}
 	}
-}
-
+};
 
 const Themes = {
-	light:LightTheme,
-	dark:DarkTheme
-}
+	light: LightTheme,
+	dark: DarkTheme
+};
 
-export default Themes
+export default Themes;
