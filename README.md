@@ -39,7 +39,7 @@ Make sure you have a modern web browser and TypeScript installed.
 
 1. Enter numbers using the numeric keypad.
 2. Use the operator buttons (+, -, *, /) to perform operations.
-3. Press the "C" button to clear the input.
+3. Press the "AC" button to clear the input.
 
 ### Contributing
 
