@@ -3,7 +3,7 @@ const LightTheme = {
 	display: {
 		bg: '#FFF',
 		color: '#000',
-		prevColor: '#2dc4b6',
+		prevColor: '#4C8BF5',
 	},
 	bgOperator: '#4C8BF5',
 	bgNumber: '#fdfdfd',
@@ -37,7 +37,7 @@ const DarkTheme = {
 	display: {
 		bg: '#071415',
 		color: '#fff',
-		prevColor: '#2dc4b6',
+		prevColor: '#4C8BF5',
 	},
 	bgOperator: '#4C8BF5',
 	bgNumber: '#08151a',
