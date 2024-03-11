@@ -53,7 +53,7 @@ As the sole contributor to this project, contributions are currently not open. I
 - TypeScript
 
 ## GitHub
-[Website](https://iankamar.github.io/Calculator/)
+[Calculator](https://iankamar.github.io/Calculator/)
 
 ### License
 
