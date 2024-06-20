@@ -6,10 +6,6 @@ A simple calculator project built with HTML, CSS, and TypeScript.
 
 This calculator project provides basic arithmetic functionality, allowing users to perform addition, subtraction, multiplication, and division. It features a clean and intuitive user interface, making it easy to use for both beginners and experienced users.
 
-## Live Demo
-
-Check out the live demo [Calculator](https://iankamar.github.io/Calculator/)
-
 ## Features
 
 - Addition, subtraction, multiplication, and division operations
