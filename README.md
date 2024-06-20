@@ -41,6 +41,12 @@ As the sole contributor to this project, contributions are currently not open. I
 - CSS
 - TypeScript
 
+## Running the Project
+
+Use the following commands to run the project:
+- `npm run dev` — Launches the server
+
+
 ## License
 
 The source code for the site is licensed under the MIT license, which you can find in the MIT-LICENSE.txt file.
