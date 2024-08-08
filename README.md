@@ -17,7 +17,6 @@ This calculator project provides basic arithmetic functionality, allowing users 
 <img width="727" alt="Light Calculator" src="https://github.com/iankamar/Calculator/assets/95672055/e1ebad04-44d2-46cb-8ca1-64ac132f7d83">
 <img width="731" alt="Dark Calculator" src="https://github.com/iankamar/Calculator/assets/95672055/1e62ea0c-aa81-4695-aaa5-71d63c3e03a5">
 
-
 ## Getting Started
 
 ### Prerequisites
@@ -30,10 +29,13 @@ Make sure you have a modern web browser and TypeScript installed.
 2. Use the operator buttons (+, -, *, /) to perform operations.
 3. Press the "AC" button to clear the input.
 
+### Live Demo
+
+Check out the live version of the project: [Calculator](https://calculator-e3hp.vercel.app/)
+
 ### Contributing
 
 As the sole contributor to this project, contributions are currently not open. If you have suggestions or issues, feel free to [create an issue](https://github.com/iankamar/Calculator/issues).
-
 
 ## Technology Stack
 
@@ -45,7 +47,6 @@ As the sole contributor to this project, contributions are currently not open. I
 
 Use the following commands to run the project:
 - `npm run dev` — Launches the server
-
 
 ## License
 
@@ -61,4 +62,3 @@ Thanks to the following resources and tools that contributed to the development 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML): The standard markup language for creating web pages.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): The style sheet language used for describing the look and formatting of a document written in HTML.
 - [Visual Studio Code](https://code.visualstudio.com/): An excellent source code editor that provides support for TypeScript and a variety of extensions.
-
