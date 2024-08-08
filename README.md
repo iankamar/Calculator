@@ -29,6 +29,7 @@ Make sure you have a modern web browser and TypeScript installed.
 2. Use the operator buttons (+, -, *, /) to perform operations.
 3. Press the "AC" button to clear the input.
 
+## Running the Project
 ### Live Demo
 
 Check out the live version of the project: [Calculator](https://calculator-e3hp.vercel.app/)
@@ -42,11 +43,6 @@ As the sole contributor to this project, contributions are currently not open. I
 - HTML
 - CSS
 - TypeScript
-
-## Running the Project
-
-Use the following commands to run the project:
-- `npm run dev` — Launches the server
 
 ## License
 
